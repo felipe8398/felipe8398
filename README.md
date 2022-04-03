@@ -10,7 +10,7 @@
     </a>
 </div>
 
-## Detailed information
+## Informações
 
 * **Nome**: Felipe Pereira Silveira
 * **Idade**: 24
