@@ -18,7 +18,6 @@
 * **Conhecimentos**: Cybersecurity - Linux - Windows - Azure - Redes
 * **Graduação**: Centro Universitário Senac - Tecnologia em Redes de Computadores
 * **Pós Graduação**: IPOG - Instituto de Pós-Graduação e Graduação - Computação Forense e Pericia Digital
-* **Pós Graduação**: Centro de Inovação VincIT - UNICIV - Especialização - Segurança Defensiva – Blue Team Operations
 
 ## Áreas de interesse
                                                                                                             
