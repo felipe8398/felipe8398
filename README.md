@@ -9,10 +9,9 @@
 
 ## Informações
 
-* **Nome**: Felipe Pereira Silveira
-* **Idade**: 24
+* **Nome**: Felipe Silveira
 * **Vivendo em**: São Paulo - SP, Brazil
-* **Conhecimentos**: Cybersecurity - Linux - Windows - Azure - Redes
+* **Conhecimentos**: Cybersecurity - Linux - Windows - Azure - Redes - AWS
 * **Graduação**: Centro Universitário Senac - Tecnologia em Redes de Computadores
 * **Pós Graduação**: IPOG - Instituto de Pós-Graduação e Graduação - Computação Forense e Pericia Digital
 
