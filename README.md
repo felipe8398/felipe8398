@@ -17,7 +17,7 @@
 
 ## Áreas de interesse
                                                                                                             
-* **Cyber Security** principalmente referente área de Blue Team e Purple Team
+* **Cyber Security** principalmente referente área de Blue Team, Purple Team e Threat Intelligence
 * **Automatização** de buscas maçantes utilizando scripts Shell(Bash) ou Powershell
 * **Forense** computacional voltado para a área de resposta a incidente                              
                                                                                
